@@ -11,7 +11,7 @@ This is how I am currently organizing these maps:
 
 ### Maps are either Live or Removed
 - A Live map is a map that you could switch to if you made a fresh clone of the repo and used the mapping command in game to get there.
-- A Removed map is a map that you ==cannot== switch to if you made a fresh clone of the repo.
+- A Removed map is a map that you *cannot* switch to if you made a fresh clone of the repo.
 
 ### Live Maps are either in the Standard Rotation or require Admin Intervention 
 - The Standard Rotation includes Station maps, Shuttles, all salvage related maps, nukie planet, centcom, and arrivals 
