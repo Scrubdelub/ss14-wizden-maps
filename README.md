@@ -23,6 +23,7 @@ This is how I am currently organizing these maps:
 --- 
 ## TO DO
 - Reorganize live shuttle maps to make Admin Inverened maps have their shuttles in AdminIntervention (E.g. Relic's shuttle should be in a directory called Shuttle in AdminIntervention)
+- Reorganize maps to include their Prototypes: You need the prototypes to run the maps properly
 - Reorganize the Salv related maps: I'm not sure how I'd go about it yet, so, we'll see what happens.
 - Find remaining Removed & Admin Event Maps: This repo is missing a few removed maps (Kettle, Lighthouse(old centcom), core 1, moose 1), and all the admin event maps (dunno how it's gonna happen but it's gotta happen)
 - Figure out guidelines for others to assist with the repo (we'll see if this happens, hopefully)
